@@ -15,4 +15,4 @@
 
 #endif           
 
-// initializing all of allegro's libraries and codec
+// initialising all of allegro's libraries and codec
